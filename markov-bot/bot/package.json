@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Markov based discord chatbot",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Don't share my code you fucker",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "rita": "^1.3.82"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
